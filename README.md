@@ -1,6 +1,6 @@
 ### PHP Development Environment Image
 
-[php](https://img.shields.io/badge/php-7.2.12-green.svg)[develop](https://img.shields.io/badge/develop-ok-blue.svg)
+![https://img.shields.io/badge/php-7.2.12-green.svg](https://img.shields.io/badge/php-7.2.12-green.svg)![https://img.shields.io/badge/develop-ok-blue.svg](https://img.shields.io/badge/develop-ok-blue.svg)
 
 This images include following components:
 
